@@ -1,0 +1,9 @@
+name: CookieToken
+description: This is a meme token created on The Open Network.
+image: "https://github.com/Pehhenika/website/blob/main/logo.png?raw=true"
+address: EQDdKkzOKps7IlK0Fv4EJmHDIvOZQ7LtsCa-ve4qJpopF4oq
+symbol: COOKIE
+max_supply: 5000000
+social:
+  - "https://t.me/cookiestokens"
+  - "https://t.me/cookietokenen"
